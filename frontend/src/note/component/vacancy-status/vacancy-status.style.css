@@ -1,0 +1,20 @@
+.accepted-vacancy-status {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: rgba(121, 250, 2, 0.17);
+    color: #7dff00;
+}
+
+.rejected-vacancy-status {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: rgba(255, 153, 0, 0.4);
+    color: #ff8000;
+}
+
